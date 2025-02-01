@@ -1,2 +1,2 @@
 linha1
-linha2
+linha2 - Alterado pelo repositorio local
