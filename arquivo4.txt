@@ -1,2 +1,7 @@
 linha1
+<<<<<<< HEAD
 linha2 - Alterado pelo repositorio local
+=======
+linha2 - Alterado em cloud
+Linha3
+>>>>>>> 5acc7a3eaf5a19276842eb341dbdf2b1ab71175e
